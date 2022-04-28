@@ -1,6 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
 body{
-    background: url(/images/kan.jpg);
+    background: url(/images/jay.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
+.overlay{
+    background-color: #041844b0;
+    height: 600px;
+    /* background-size: cover; */
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    
+}
+.intro{
+    text-align: center;
+    color: #fff;
+    font-size: 60px;
+    font-family: 'Tapestry', cursive;
 
+}
+form{
+   margin-left: 50px;
+   margin-right: auto;
+}
+.form{
+    margin-top: 6%;
+    justify-content: center;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Tapestry', cursive;
+}
+label{
+    color: white;
+    font-size: 25px;
+    font-family: 'Tapestry', cursive;
+}
+.form-control{
+    width: 90%;
+    font-family: 'Tapestry', cursive;
+    font-size: 25px;
+}
+.form-check{
+    padding-right: 6px;
+}
+h3{
+    color: white;
+    font-family: 'Tapestry', cursive;
+}
+.btn{
+    height: 50px;
+    width: 90px;
+    background-color: ;
+}
